@@ -1,0 +1,21 @@
+body {
+    min-width: 90vw;
+    min-height: 90vh;
+    max-width: 90vw;
+    max-height: 90vh;
+    display: flex; 
+    flex-direction: row;
+    overflow: hidden;
+}
+#world-map {
+    min-width: 80%;
+    min-height: 90vh;
+}
+svg {
+    min-width: 90vw;
+    min-height: 90vh;
+}
+#country-details {
+    width: 100%;
+    height: 100%;
+}
